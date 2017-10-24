@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 
 $availableFunds = [ //normally these would be columns in a database, but that seemed overkill for this
 	'VFINX' => [ 'stockBond' => 'S', 'category' => 0, 'expenseRatio' => 0.14, 'fundName' => 'Vanguard 500 Index' ],
