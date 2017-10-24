@@ -1,0 +1,14 @@
+#before, #after {
+	display: inline-block;
+	margin: 3em;
+}
+
+p {
+	display: inline-block;
+	padding: .5em;
+}
+
+.fund {
+	border: grey solid 1px;
+	border-radius: 5px;
+}
